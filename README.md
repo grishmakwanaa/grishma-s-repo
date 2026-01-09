@@ -4,14 +4,14 @@ A beautiful, production-ready Next.js application for AI-powered color palette s
 
 ## Features
 
-- 🎨 Modern, elegant design with smooth animations
-- 📱 Fully responsive (mobile, tablet, desktop)
-- ⚡ Built with Next.js 14 App Router
-- 🎯 TypeScript for type safety
-- 💅 CSS Modules for scoped styling
-- 🖼️ Image upload and preview
-- 🤖 Ready for ML model integration
-- ✨ Professional UI/UX with Google Fonts
+-  Modern, elegant design with smooth animations
+-  Fully responsive (mobile, tablet, desktop)
+-  Built with Next.js 14 App Router
+-  TypeScript for type safety
+-  CSS Modules for scoped styling
+-  Image upload and preview
+-  Ready for ML model integration
+-  Professional UI/UX with Google Fonts
 
 ## Tech Stack
 
@@ -257,11 +257,11 @@ Update text content directly in the component files:
 
 ## Performance Optimization
 
-- ✅ Google Fonts optimized with `next/font`
-- ✅ CSS Modules for code splitting
-- ✅ Image optimization ready (use `next/image` when needed)
-- ✅ Server-side rendering enabled
-- ✅ Lazy loading for results section
+-  Google Fonts optimized with `next/font`
+-  CSS Modules for code splitting
+-  Image optimization ready (use `next/image` when needed)
+-  Server-side rendering enabled
+-  Lazy loading for results section
 
 ## Browser Support
 
